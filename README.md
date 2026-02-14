@@ -1,1 +1,1 @@
-# ha
+print("hello world")
